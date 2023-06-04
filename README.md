@@ -16,7 +16,3 @@ This is a simple command-line implementation of the classic Tic Tac Toe game in 
 10. The final game board and the outcome of the game will be displayed.
 
 Enjoy playing Tic Tac Toe!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
